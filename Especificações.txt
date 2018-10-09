@@ -1,0 +1,33 @@
+Segue teste de conhecimento técnico, conforme conversamos.
+
+
+
+Leia primeiro todo o projeto, faça sua estimativa de horas para o desenvolvimento e me envie pelo whatsapp (não é necessário fazer correndo, o tempo de desenvolvimento não vai ser analisado na avaliação e sim o capricho/ cuidado)
+
+Quando finalizar o teste, publique tudo no seu bitbucket/github e me avise pelo whatsapp.
+
+
+
+Desenvolva CRUDs em PHP orientado a objeto, SEM utilizar framework (ex: Laravel, CodeIgniter, etc...), para cadastrar CLIENTES e suas DÍVIDAS.
+
+
+Modele o banco de dados necessário para estes cadastros.
+
+
+Os códigos com as regras de negócio (PHP) não devem estar nos mesmo arquivos que os códigos dos front-ends (HTML, CSS, JS, etc).
+
+
+Utilize bibliotecas prontas para ajudar na aparência do front-end, ex: bootstrap.
+
+
+Utilize o git e bitbucket/github para controlar o desenvolvimento e nos enviar o código pronto.
+
+
+
+Utilize apenas as informações acima para o desenvolvimento, em caso de dúvida, siga o caminho que parece fazer mais sentido.
+
+
+
+Agradecemos sua participação e boa sorte!
+
+Importante: o tempo é livre, não importa se você vai fazer em 3 horas ou 3 dias, o que importa é o cuidado. Antes de iniciar, não esqueça de me passar a estimativa.
